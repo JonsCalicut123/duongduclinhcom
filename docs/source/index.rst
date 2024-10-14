@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Duongduclinh Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Dương Đức Linh <https://duongduclinh.com/>`_ là một BLV Poker chuyên nghiệp hàng đầu tại Việt Nam, nhiều lần đạt những giải thưởng BLV cao quý nhất trong ngành. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 365/82 Đ. Nguyễn Hồng Đào, Phường 14, Tân Bình, Hồ Chí Minh, Vietnam
 
-   This project is under active development.
+Phone: 0921101985
 
-Contents
---------
+Email: blvduongduclinh@duongduclinh.com
 
-.. toctree::
+Website: https://duongduclinh.com/
 
-   usage
-   api
+#duongduclinh, #blv_duongduclinh, #duong_duc_linh, #blv_duong_duc_linh
